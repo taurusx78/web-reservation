@@ -16,5 +16,5 @@
 <br><br><br>
 
 ## Demo
-📽[영상 보기1](https://blog.naver.com/taurusx/222488370751)<br>
-📽[영상 보기2](https://blog.naver.com/taurusx/222467007908)<br>
+📽[영상 보기1](https://blog.naver.com/taurusx/222467007908)<br>
+📽[영상 보기2](https://blog.naver.com/taurusx/222488370751)<br>
