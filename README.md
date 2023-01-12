@@ -4,17 +4,10 @@
 - [프로젝트 기획서](https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNEKbs/edit#slide=id.p5) 보기
 <br><br><br>
 
-## Tech Stack
-### [Front-end]
+## 기술스택
 - HTML
 - CSS
 - JavaScript
-
-### [Back-end]
 - Spring
 - MySQL
-<br><br><br>
-
-## Demo
-📽[영상 보기1](https://blog.naver.com/taurusx/222467007908)<br>
-📽[영상 보기2](https://blog.naver.com/taurusx/222488370751)<br>
+<br>
